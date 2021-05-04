@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCipher", "SimpleCipher.csproj", "{29EEC480-4E80-4CE4-894C-0F7749B1B44A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29EEC480-4E80-4CE4-894C-0F7749B1B44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EEC480-4E80-4CE4-894C-0F7749B1B44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EEC480-4E80-4CE4-894C-0F7749B1B44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EEC480-4E80-4CE4-894C-0F7749B1B44A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09A8263-8401-4A66-AEF1-0609B03A662E}
+	EndGlobalSection
+EndGlobal
